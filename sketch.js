@@ -38,6 +38,6 @@ function draw(){
         drops[i].updateY()
         
     }
-umbrella.display()
+//umbrella.display()
     drawSprites();
 }
